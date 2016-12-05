@@ -16,6 +16,7 @@
 * Go to current project directory
 * mvn clean install //build the project
 * sudo cp target/BlogApp.war /var/lib/tomcat7/webapps/.
+* sudo service tomcat7 restart //restart the server after code ddeploment
 
 ###Dump database in mysql
 * Install Mysql dump data in mysql
